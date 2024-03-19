@@ -1,4 +1,4 @@
-name = 'Chhunkea'
+name = 'Iron man'
 weight = 70
 height = 175
 
