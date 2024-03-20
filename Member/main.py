@@ -1,6 +1,6 @@
 name = 'Iron man'
 height = 175
-weight = 60
+weight = 65
 
 print('Your name is:', name)
 print('Your height is:', height)
